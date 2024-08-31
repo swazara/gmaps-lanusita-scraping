@@ -1,0 +1,71 @@
+type,type_es,category_es
+accounting,contabilidad,servicios financieros
+atm,cajero automático,servicios financieros
+bakery,panadería,comida y bebidas
+bank,banco,servicios financieros
+bar,bar,comida y bebidas
+beauty salon,salón de belleza,salud y bienestar
+bicycle store,tienda de bicicletas,compras y retail
+book store,librería,compras y retail
+cafe,cafetería,comida y bebidas
+car rental,alquiler de autos,transporte y automóviles
+car repair,reparacion de autos,transporte y automóviles
+church,iglesia,religión y espiritualidad
+clothing store,tienda de ropa,compras y retail
+convenience store,tienda de conveniencia,compras y retail
+courthouse,palacio de justicia,servicios públicos y gobierno
+dentist,dentista,salud y bienestar
+doctor,doctor,salud y bienestar
+drugstore,farmacia,salud y bienestar
+electronics store,tienda de electronica,compras y retail
+establishment,establecimiento,servicios profesionales
+finance,finanzas,servicios financieros
+food,alimento,comida y bebidas
+furniture store,tienda de muebles,compras y retail
+general contractor,contratista general,servicios profesionales
+grocery or supermarket,tienda de comestibles o supermercado,comida y bebidas
+gym,gimnasia,salud y bienestar
+hair care,cuidado del cabello,salud y bienestar
+hardware store,ferretería,compras y retail
+health,salud,salud y bienestar
+home goods store,tienda de artículos para el hogar,compras y retail
+hospital,hospital,salud y bienestar
+insurance agency,agencia de seguros,servicios financieros
+jewelry store,tienda de joyas,compras y retail
+laundry,lavadero,otros
+lawyer,abogado,servicios profesionales
+library,biblioteca,educación
+liquor store,tienda de licores,comida y bebidas
+local government office,oficina del gobierno local,servicios públicos y gobierno
+locality,localidad,otros
+locksmith,cerrajero,servicios profesionales
+lodging,alojamiento,alojamiento y turismo
+meal delivery,entrega de comida,comida y bebidas
+meal takeaway,comida para llevar,comida y bebidas
+movie theater,cine,entretenimiento y cultura
+museum,museo,entretenimiento y cultura
+night club,club nocturno,entretenimiento y cultura
+park,parque,entretenimiento y cultura
+parking,estacionamiento,transporte y automóviles
+pet store,tienda de mascotas,compras y retail
+pharmacy,farmacia,salud y bienestar
+place of worship,lugar de culto,religión y espiritualidad
+point of interest,punto de interés,otros
+police,policía,servicios públicos y gobierno
+political,político,servicios públicos y gobierno
+primary school,escuela primaria,educación
+real estate agency,agencia inmobiliaria,servicios profesionales
+restaurant,restaurante,comida y bebidas
+school,escuela,educación
+secondary school,escuela secundaria,educación
+shoe store,zapatería,compras y retail
+shopping mall,centro comercial,compras y retail
+spa,spa,salud y bienestar
+store,tienda,compras y retail
+sublocality,sublocalidad,otros
+sublocality level 1,nivel de sublocalidad 1,otros
+supermarket,supermercado,comida y bebidas
+transit station,estación de tránsito,transporte y automóviles
+travel agency,agencia de viajes,alojamiento y turismo
+university,universidad,educación
+veterinary care,atención veterinaria ,salud y bienestar 
