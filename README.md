@@ -1,1 +1,1 @@
-# gmaps-lanusita-scrapping
+# gmaps-lanusita-scraping
